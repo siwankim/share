@@ -63,6 +63,10 @@
     src: local("NanumBarunGothic");
 }
 @font-face {
+    font-family: Arial;
+    src: local("NanumBarunGothic");
+}
+@font-face {
     font-family:"돋움";
     src: local("NanumBarunGothic");
     font-weight: bold;
@@ -142,6 +146,12 @@
     src: local("NanumBarunGothic");
     font-weight: bold;
 }
+@font-face {
+    font-family: Arial;
+    src: local("NanumBarunGothic");
+    font-weight: bold;
+}
+
 h1, h2, h3, h4, p, span, div, li, ul, body, input, button, textarea, select, pre, code, a {
     font-family: Lucida Sans Typewriter, NanumBarunGothic, D2Coding, nf-icon;
 }
