@@ -1,340 +1,157 @@
 @font-face {
-  font-family:"돋움";
-  src: local("Lucida Sans Typewriter");
+    font-family:"돋움";
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family:"돋움체";
-  src: local("Lucida Sans Typewriter");
+    font-family:"돋움체";
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family: dotum;
-  src: local("Lucida Sans Typewriter");
+    font-family: dotum;
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family: DotumChe;
-  src: local("Lucida Sans Typewriter");
+    font-family: DotumChe;
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family:"굴림";
-  src: local("Lucida Sans Typewriter");
+    font-family:"굴림";
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family:"굴림체";
-  src: local("Lucida Sans Typewriter");
+    font-family:"굴림체";
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family: Gulim;
-  src: local("Lucida Sans Typewriter");
+    font-family: Gulim;
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family: GulimChe;
-  src: local("Lucida Sans Typewriter");
+    font-family: GulimChe;
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family:"바탕";
-  src: local("Lucida Sans Typewriter");
+    font-family:"바탕";
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family:"바탕체";
-  src: local("Lucida Sans Typewriter");
+    font-family:"바탕체";
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family: Batang;
-  src: local("Lucida Sans Typewriter");
+    font-family: Batang;
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family: BatangChe;
-  src: local("Lucida Sans Typewriter");
+    font-family: BatangChe;
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family:"궁서";
-  src: local("Lucida Sans Typewriter");
+    font-family:"궁서";
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family:"궁서체";
-  src: local("Lucida Sans Typewriter");
+    font-family:"궁서체";
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family: Gungsuh;
-  src: local("Lucida Sans Typewriter");
+    font-family: Gungsuh;
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family: GungsuhChe;
-  src: local("Lucida Sans Typewriter");
+    font-family: GungsuhChe;
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family: Arial;
-  src: local("Lucida Sans Typewriter");
+    font-family: Arial;
+    src: local("NanumBarunGothic");
 }
 @font-face {
-  font-family: Helvetica;
-  src: local("Lucida Sans Typewriter");
+    font-family:"돋움";
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family: "Times New Roman";
-  src: local("Lucida Sans Typewriter");
+    font-family:"돋움체";
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family: Georgia;
-  src: local("Lucida Sans Typewriter");
+    font-family: dotum;
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family: Cambria;
-  src: local("Lucida Sans Typewriter");
+    font-family: DotumChe;
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family: "-apple-system";
-  src: local("Lucida Sans Typewriter");
+    font-family:"굴림";
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family: "medium-content-serif-font";
-  src: local("Lucida Sans Typewriter");
+    font-family:"굴림체";
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family: "나눔명조";
-  src: local("NanumBarunGothic");
+    font-family: Gulim;
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family:"돋움";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
+    font-family: GulimChe;
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family:"돋움체";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
+    font-family:"바탕";
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family: dotum;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
+    font-family:"바탕체";
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family: DotumChe;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
+    font-family: Batang;
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family:"굴림";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
+    font-family: BatangChe;
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family:"굴림체";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
+    font-family:"궁서";
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family: Gulim;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
+    font-family:"궁서체";
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family: GulimChe;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
+    font-family: Gungsuh;
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family:"바탕";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
+    font-family: GungsuhChe;
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 @font-face {
-  font-family:"바탕체";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: Batang;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: BatangChe;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family:"궁서";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family:"궁서체";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: Gungsuh;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: GungsuhChe;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: Arial;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: Helvetica;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: "Times New Roman";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: Georgia;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: Cambria;
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: "-apple-system";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: "medium-content-serif-font";
-  src: local("Lucida Sans Typewriter");
-  font-weight: bold;
-}
-@font-face {
-  font-family: "나눔명조";
-  src: local("NanumBarunGothic");
-  font-weight: bold;
-}
-@font-face {
-  font-family:"돋움";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family:"돋움체";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: dotum;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: DotumChe;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family:"굴림";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family:"굴림체";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: Gulim;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: GulimChe;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family:"바탕";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family:"바탕체";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: Batang;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: BatangChe;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family:"궁서";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family:"궁서체";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: Gungsuh;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: GungsuhChe;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: Arial;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: Helvetica;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: "Times New Roman";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: Georgia;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: Cambria;
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: "-apple-system";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: "medium-content-serif-font";
-  src: local("Lucida Sans Typewriter");
-  font-style: italic;
-}
-@font-face {
-  font-family: "나눔명조";
-  src: local("NanumBarunGothic");
-  font-style: italic;
+    font-family: Arial;
+    src: local("NanumBarunGothic");
+    font-weight: bold;
 }
 
-h1, h2, h3, h4, p, span, div, li, ul, body, input, button, textarea, select, pre, code, a, strong {
-  font-family: Lucida Sans Typewriter, NanumBarunGothic, D2Coding, nf-icon, Apple Symbols;
+h1, h2, h3, h4, p, span, div, li, ul, body, input, button, textarea, select, pre, code, a {
+    font-family: Lucida Sans Typewriter, NanumBarunGothic, D2Coding, nf-icon;
 }
