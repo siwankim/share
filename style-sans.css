@@ -71,6 +71,14 @@
   src: local("Lucida Sans Typewriter");
 }
 @font-face {
+  font-family: Tahoma;
+  src: local("Lucida Sans Typewriter");
+}
+@font-face {
+  font-family: "Novacento Sans Wide";
+  src: local("Lucida Sans Typewriter");
+}
+@font-face {
   font-family: "Times New Roman";
   src: local("Lucida Sans Typewriter");
 }
@@ -84,6 +92,10 @@
 }
 @font-face {
   font-family: "-apple-system";
+  src: local("Lucida Sans Typewriter");
+}
+@font-face {
+  font-family: "system-ui";
   src: local("Lucida Sans Typewriter");
 }
 @font-face {
@@ -185,6 +197,16 @@
   font-weight: bold;
 }
 @font-face {
+  font-family: Tahoma;
+  src: local("Lucida Sans Typewriter");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Novacento Sans Wide";
+  src: local("Lucida Sans Typewriter");
+  font-weight: bold;
+}
+@font-face {
   font-family: "Times New Roman";
   src: local("Lucida Sans Typewriter");
   font-weight: bold;
@@ -201,6 +223,11 @@
 }
 @font-face {
   font-family: "-apple-system";
+  src: local("Lucida Sans Typewriter");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "system-ui";
   src: local("Lucida Sans Typewriter");
   font-weight: bold;
 }
@@ -305,6 +332,16 @@
   font-style: italic;
 }
 @font-face {
+  font-family: Tahoma;
+  src: local("Lucida Sans Typewriter");
+  font-style: italic;
+}
+@font-face {
+  font-family: "Novacento Sans Wide";
+  src: local("Lucida Sans Typewriter");
+  font-style: italic;
+}
+@font-face {
   font-family: "Times New Roman";
   src: local("Lucida Sans Typewriter");
   font-style: italic;
@@ -321,6 +358,11 @@
 }
 @font-face {
   font-family: "-apple-system";
+  src: local("Lucida Sans Typewriter");
+  font-style: italic;
+}
+@font-face {
+  font-family: "system-ui";
   src: local("Lucida Sans Typewriter");
   font-style: italic;
 }
