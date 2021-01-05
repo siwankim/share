@@ -1,166 +1,184 @@
 @font-face {
     font-family:"돋움";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family:"돋움체";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family: dotum;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family: DotumChe;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family:"굴림";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family:"굴림체";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family: Gulim;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family: GulimChe;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family:"바탕";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family:"바탕체";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family: Batang;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family: BatangChe;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family:"궁서";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family:"궁서체";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family: Gungsuh;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family: GungsuhChe;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family: Arial;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family: Helvetica;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
+}
+@font-face {
+    font-family: Roboto;
+    src: local("Lucida Sans Typewriter");
+}
+@font-face {
+    font-family: "SF Pro Display";
+    src: local("Lucida Sans Typewriter");
 }
 @font-face {
     font-family:"돋움";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family:"돋움체";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family: dotum;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family: DotumChe;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family:"굴림";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family:"굴림체";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family: Gulim;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family: GulimChe;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family:"바탕";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family:"바탕체";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family: Batang;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family: BatangChe;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family:"궁서";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family:"궁서체";
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family: Gungsuh;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family: GungsuhChe;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family: Arial;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
+    font-weight: bold;
+}
+@font-face {
+    font-family: Roboto;
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 @font-face {
     font-family: Helvetica;
-    src: local("Noto Mono");
+    src: local("Lucida Sans Typewriter");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "SF Pro Display";
+    src: local("Lucida Sans Typewriter");
     font-weight: bold;
 }
 
-h1, h2, h3, h4, p, span, div, li, ul, body, input, button, textarea, select, pre, code, a {
-    font-family: Noto Mono, Lucida Sans Typewriter, NanumBarunGothic, D2Coding, nf-icon;
+h1, h2, h3, h4, p, span, div, li, ul, body, input, button, textarea, select, pre, code, a, table, th, tr, td {
+    font-family: Lucida Sans Typewriter, Noto Mono, NanumBarunGothic, D2Coding, nf-icon;
 }
